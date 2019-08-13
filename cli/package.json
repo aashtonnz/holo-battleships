@@ -1,0 +1,12 @@
+{
+  "name": "battleships-cli",
+  "version": "0.1.0",
+  "description": "Command-line interface for battleships holochain app",
+  "main": "app.js",
+  "bin": {
+    "holo-battleships": "./app.js"
+  },
+  "author": "Andrew Ashton",
+  "license": "MIT",
+  "dependencies": {}
+}

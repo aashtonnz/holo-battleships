@@ -1,0 +1,14 @@
+{
+  "name": "Battleships",
+  "description": "Two player grid-based strategy game",
+  "authors": [
+    {
+      "identifier": "Andrew Ashton <aashtonnz@gmail.com>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
